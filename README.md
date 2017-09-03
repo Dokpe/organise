@@ -1,2 +1,2 @@
 # organise
-Organises files in user given path into  folders
+Organises files into folders based on user given directory
